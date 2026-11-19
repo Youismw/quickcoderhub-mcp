@@ -1,0 +1,41 @@
+{
+  "name": "quickcoderhub",
+  "mcpName": "com.quickcoderhub/tools",
+  "version": "1.0.2",
+  "description": "Thin CLI & stdio MCP proxy for QuickCoderHub's 20 high-moat engineering tools (3D STL CAD, G-code, Firmware UF2/ELF, Binary/WASM Disassembly, K-Map/Verilog/VCD, Linux systemd/seccomp/AppArmor, and Forensic PDF Repair/Audit).",
+  "bin": {
+    "quickcoderhub": "bin/quickcoderhub.js"
+  },
+  "files": [
+    "bin/",
+    "mcp/",
+    "README.md"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "x402",
+    "stl",
+    "3d-printing",
+    "gcode",
+    "uf2",
+    "elf",
+    "wasm",
+    "disassembler",
+    "verilog",
+    "vcd",
+    "systemd",
+    "seccomp",
+    "apparmor",
+    "pdf-repair"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "url",
+    "url": "https://quickcoderhub.com"
+  },
+  "homepage": "https://quickcoderhub.com"
+}
