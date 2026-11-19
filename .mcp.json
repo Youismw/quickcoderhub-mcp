@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "quickcoderhub": {
+      "url": "https://api.quickcoderhub.com/mcp"
+    }
+  }
+}
